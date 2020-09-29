@@ -1,0 +1,18 @@
+{
+    "name": "vince/affichage-tableau-js",
+    "description": "Tableau",
+    "type": "project",
+    "require": {
+        "twbs/bootstrap": "^4.5"
+    },
+    "require-dev": {
+        "components/jquery": "^3.5"
+    },
+    "license": "GPL3.0",
+    "authors": [
+        {
+            "name": "Vincent.Brocheton",
+            "email": "vinc.brocheton@gmail.com"
+        }
+    ]
+}
